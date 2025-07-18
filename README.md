@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning C and C++
+I'm currently learning Java
 
 
 ## 🌐 Socials:
